@@ -1,0 +1,60 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+<style>
+text { font-family: Arial; font-size: 12px; }
+line { stroke: #ccc; stroke-width: 1; }
+circle { stroke-width: 2; fill: white; }
+.title { font-size: 16px; font-weight: bold; }
+</style>
+<line x1="0" y1="80" x2="0" y2="520" />
+<line x1="50" y1="80" x2="50" y2="520" />
+<line x1="100" y1="80" x2="100" y2="520" />
+<line x1="150" y1="80" x2="150" y2="520" />
+<line x1="200" y1="80" x2="200" y2="520" />
+<line x1="250" y1="80" x2="250" y2="520" />
+<line x1="300" y1="80" x2="300" y2="520" />
+<line x1="350" y1="80" x2="350" y2="520" />
+<line x1="400" y1="80" x2="400" y2="520" />
+<line x1="450" y1="80" x2="450" y2="520" />
+<line x1="500" y1="80" x2="500" y2="520" />
+<line x1="550" y1="80" x2="550" y2="520" />
+<line x1="600" y1="80" x2="600" y2="520" />
+<line x1="650" y1="80" x2="650" y2="520" />
+<line x1="700" y1="80" x2="700" y2="520" />
+<line x1="750" y1="80" x2="750" y2="520" />
+<line x1="80" y1="80" x2="720" y2="80" />
+<line x1="80" y1="130" x2="720" y2="130" />
+<line x1="80" y1="180" x2="720" y2="180" />
+<line x1="80" y1="230" x2="720" y2="230" />
+<line x1="80" y1="280" x2="720" y2="280" />
+<line x1="80" y1="330" x2="720" y2="330" />
+<line x1="80" y1="380" x2="720" y2="380" />
+<line x1="80" y1="430" x2="720" y2="430" />
+<line x1="80" y1="480" x2="720" y2="480" />
+<line x1="80" y1="520" x2="720" y2="520" stroke="black" stroke-width="2"/>
+<line x1="80" y1="80" x2="80" y2="520" stroke="black" stroke-width="2"/>
+<text x="400" y="30" text-anchor="middle" class="title">Espacio Utilizado vs Tamaño</text>
+<text x="40" y="300" text-anchor="middle" transform="rotate(-90 40 300)">Espacio (MiB)</text>
+<text x="400" y="580" text-anchor="middle">Tamaño (MiB)</text>
+<circle cx="120.0" cy="492.5" r="4" stroke="red" />
+<circle cx="160.0" cy="465.0" r="4" stroke="red" />
+<line x1="120.0" y1="492.5" x2="160.0" y2="465.0" stroke="red" stroke-width="2"/>
+<circle cx="240.0" cy="410.0" r="4" stroke="red" />
+<line x1="160.0" y1="465.0" x2="240.0" y2="410.0" stroke="red" stroke-width="2"/>
+<circle cx="400.0" cy="300.0" r="4" stroke="red" />
+<line x1="240.0" y1="410.0" x2="400.0" y2="300.0" stroke="red" stroke-width="2"/>
+<circle cx="720.0" cy="80.0" r="4" stroke="red" />
+<line x1="400.0" y1="300.0" x2="720.0" y2="80.0" stroke="red" stroke-width="2"/>
+<circle cx="120.0" cy="518.858642578125" r="4" stroke="blue" />
+<circle cx="160.0" cy="517.489013671875" r="4" stroke="blue" />
+<line x1="120.0" y1="518.858642578125" x2="160.0" y2="517.489013671875" stroke="blue" stroke-width="2"/>
+<circle cx="240.0" cy="514.5000000204891" r="4" stroke="blue" />
+<line x1="160.0" y1="517.489013671875" x2="240.0" y2="514.5000000204891" stroke="blue" stroke-width="2"/>
+<circle cx="400.0" cy="507.96875" r="4" stroke="blue" />
+<line x1="240.0" y1="514.5000000204891" x2="400.0" y2="507.96875" stroke="blue" stroke-width="2"/>
+<circle cx="720.0" cy="494.21875" r="4" stroke="blue" />
+<line x1="400.0" y1="507.96875" x2="720.0" y2="494.21875" stroke="blue" stroke-width="2"/>
+<circle cx="650" cy="60" r="4" stroke="red" />
+<text x="670" y="65">Caso 1: Explícito</text>
+<circle cx="650" cy="90" r="4" stroke="blue" />
+<text x="670" y="95">Caso 3: Shannon-Fano</text>
+</svg>

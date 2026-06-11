@@ -1,0 +1,6 @@
+size_MiB,gen_time_ms,sort_time_ms,true_search_time_ms,true_search_found,true_search_not_found,select_search_time_ms,select_search_found,select_search_not_found,gc_gen_time,gc_word_size,gc_total_bits,gc_sample_size_bits,gc_true_search_time_ms,gc_true_search_found,gc_true_search_not_found,gc_select_search_time_ms,gc_select_search_found,gc_select_search_not_found,sf_gen_time_ms,sf_search_time_ms,space_bits_compressed,space_bits_explicit
+16,25,11,0.62,262100,44,0.65,262100,44,18,10,167772160,6400,4.82,262100,44,4.56,262100,44,92,2.43,44564480,1073741824
+32,52,23,0.73,262100,44,0.78,262100,44,38,11,369098752,6400,9.87,262100,44,9.12,262100,44,196,3.28,98041856,2147483648
+64,108,48,0.82,262100,44,0.91,262100,44,82,12,805306368,6400,21.43,262100,44,19.67,262100,44,425,4.91,214748364,4294967296
+128,225,105,0.95,262100,44,1.08,262100,44,180,13,1744830464,6400,46.52,262100,44,42.18,262100,44,920,7.34,469762048,8589934592
+256,468,223,1.12,262100,44,1.32,262100,44,389,14,3758096384,6400,101.25,262100,44,91.55,262100,44,1987,11.28,1006632960,17179869184

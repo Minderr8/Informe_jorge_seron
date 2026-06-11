@@ -1,0 +1,141 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                     %%
+%%   BENCHMARK MODE    %%
+%%                     %%
+%%%%%%%%%%%%%%%%%%%%%%%%%
+Salida: salida.csv
+CASE 1: (1/4): generate: lineal distribution vector (8 mebibytes)... DONE.
+    CASE 1: (2/4): sort: lineal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): lineal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): lineal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: lineal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: lineal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: lineal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: lineal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): lineal distribution vector... DONE.
+CASE 1: (1/4): generate: lineal distribution vector (76 mebibytes)... DONE.
+    CASE 1: (2/4): sort: lineal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): lineal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): lineal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: lineal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: lineal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: lineal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: lineal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): lineal distribution vector... DONE.
+CASE 1: (1/4): generate: lineal distribution vector (763 mebibytes)... DONE.
+    CASE 1: (2/4): sort: lineal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): lineal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): lineal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: lineal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: lineal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: lineal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: lineal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): lineal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (8 mebibytes, 1 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (8 mebibytes, 2 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (8 mebibytes, 3 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (8 mebibytes, 4 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (76 mebibytes, 1 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (76 mebibytes, 2 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (76 mebibytes, 3 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (76 mebibytes, 4 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (763 mebibytes, 1 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (763 mebibytes, 2 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (763 mebibytes, 3 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
+CASE 1: (1/4): generate: normal distribution vector (763 mebibytes, 4 sigma)... DONE.
+    CASE 1: (2/4): sort: normal distribution vector... DONE.
+    CASE 1: (3/4): random binary search (262144n): normal distribution vector... DONE.
+    CASE 1: (4/4): random from vector binary search (262144n): normal distribution vector... DONE.
+    CASE 2: (1/3): generating gap_coding array from: normal distribution vector... DONE.
+    CASE 2: (2/3): random binary search: normal gap_coding... DONE.
+    CASE 2: (3/3): random from gap_coding binary search: normal gap_coding... DONE.
+    CASE 3: (1/2): build Shannon-Fano: normal distribution vector... DONE.
+    CASE 3: (2/2): search (262144n): normal distribution vector... DONE.
